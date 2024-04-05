@@ -1,5 +1,5 @@
 # Agustin Barros
-I live in Montevideo, Uruguay. I'm working every day on becoming a better developer and learning new tools. I mainly work with HTML, CSS and JavaScript, as well as frameworks like React. I also like to dabble UX/UI and design in general with Figma and other tools.
+I live in Montevideo, Uruguay. I'm working every day on becoming a better developer and learning new tools. I mainly work with HTML, CSS and JavaScript, as well as frameworks like React. I also like to dabble in UX/UI and design in general with Figma and other tools. I believe myself to be a dedicated person. I'm always up for new challenges and finding ways to put my knowledge to good use, whether it's on projects or just a helping hand to others.
 
 <br/> <hr> <br/>
 
